@@ -1,0 +1,17 @@
+/* body {
+    background:
+    linear-gradient(to left, rgba(250,25,0,0.5), rgba(0,255,255,0.5));
+} */
+button{
+    height: 40px;
+    width: auto;
+    background-color: black;
+    padding: 10px;
+    font-size: large;
+    color: white;
+    border-radius: 50px;
+    margin-left: 45%;
+}
+/* body {
+    background: rgb(256,256,256);
+} */
